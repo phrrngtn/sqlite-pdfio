@@ -1,0 +1,8 @@
+{
+    "name": "sqlite-pdfio",
+    "version-string": "latest",
+    "dependencies": [
+      "nlohmann-json",
+      "sqlite3"
+    ]
+  }

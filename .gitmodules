@@ -1,0 +1,9 @@
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/microsoft/vcpkg.git
+[submodule "tg"]
+	path = tg
+	url = https://github.com/tidwall/tg.git
+[submodule "pdfio"]
+	path = pdfio
+	url = https://github.com/michaelrsweet/pdfio.git
